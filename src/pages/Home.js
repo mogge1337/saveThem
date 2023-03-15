@@ -35,7 +35,7 @@ const Home = () => {
                 </div>  
                 <div className="3" id="three">
                   <ReCAPTCHA
-                    sitekey="6LdCMu0kAAAAAOiGXY0zJEWANMLhKPDU0VwJRfRP"
+                    sitekey="6LdmOgIlAAAAAGCkegLl9TOvSZET-lU4rgLWiVzq"
                     className="captcha"
                     onChange={onChange}
                   />
